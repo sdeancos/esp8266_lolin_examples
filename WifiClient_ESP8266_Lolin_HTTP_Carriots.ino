@@ -8,7 +8,7 @@ const char* ssid     = "SSID_WIFI";
 const char* password = "WPA_PASS_WIFI";
 
 // Carriots Setup
-IPAddress server(82, 223, 244, 60);
+IPAddress server(51, 137, 97, 16);
 const String apikey = "CARRIOTS_APIKEY";
 const String device = "CARRIOTS_ID_DEVELOPER_DEVICE";
 String data = "{\"DATA\":\"DATA_LOLIN32\"}";
